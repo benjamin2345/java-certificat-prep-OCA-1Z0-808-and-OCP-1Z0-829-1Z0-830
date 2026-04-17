@@ -39,6 +39,7 @@
     "Application.MyApp.executor": "Run",
     "Application.Names.executor": "Run",
     "Application.NumberGenerator.executor": "Run",
+    "Application.TextBlocks.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -46,7 +47,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DataPrimitive">
+  <component name="RunManager" selected="Application.TextBlocks">
     <configuration name="DataPrimitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataPrimitive" />
       <module name="BuldingBlocks" />
@@ -68,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Names" />
-      <module name="BuldingBlocks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NumberGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberGenerator" />
       <module name="BuldingBlocks" />
@@ -82,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TextBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextBlocks" />
+      <module name="BuldingBlocks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextBlocks" />
         <item itemvalue="Application.DataPrimitive" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.MyApp" />
         <item itemvalue="Application.NumberGenerator" />
-        <item itemvalue="Application.Names" />
       </list>
     </recent_temporary>
   </component>
