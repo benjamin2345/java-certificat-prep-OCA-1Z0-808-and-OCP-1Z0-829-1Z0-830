@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="16" />
+    <option name="cachedIndexableFilesCount" value="18" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,6 +40,7 @@
     "Application.Names.executor": "Run",
     "Application.NumberGenerator.executor": "Run",
     "Application.TextBlocks.executor": "Run",
+    "Application.variables.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,7 +48,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TextBlocks">
+  <component name="RunManager" selected="Application.variables">
     <configuration name="DataPrimitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataPrimitive" />
       <module name="BuldingBlocks" />
@@ -62,15 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyApp" />
-      <module name="BuldingBlocks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberGenerator" />
+    <configuration name="Names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Names" />
       <module name="BuldingBlocks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variables" />
+      <module name="BuldingBlocks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.variables" />
+        <item itemvalue="Application.Names" />
         <item itemvalue="Application.TextBlocks" />
         <item itemvalue="Application.DataPrimitive" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.MyApp" />
-        <item itemvalue="Application.NumberGenerator" />
       </list>
     </recent_temporary>
   </component>
